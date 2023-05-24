@@ -1,6 +1,6 @@
 package model
 
-import "pkg/mod/github.com/google/uuid"
+import "github/uuid"
 
 type User struct {
 	BaseModel

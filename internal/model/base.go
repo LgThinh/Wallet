@@ -1,7 +1,7 @@
 package model
 
 import (
-	"gorm.io/gorm"
+	"pkg/mod/gorm.io/gorm"
 	"time"
 )
 
